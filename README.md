@@ -9,7 +9,7 @@ In this repository you will find:
 ### Part by Prof Valentini
 
 ### Part by Prof Servidio
-1) From the ensemble to the two fluids equations
+1) From the ensemble to the two fluids equations<br>
    The Vlasov Equation, The moments of Vlasov Equation, The moments' equations, The two fluids equations
 2) Compressible Magnetohydrodynamics (MHD)
 3) Incompressible Ideal Magnetohydrodynamics
